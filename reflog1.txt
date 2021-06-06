@@ -1,0 +1,13 @@
+a03856e (HEAD, deathedHeadBranch) HEAD@{0}: commit: Dodanie Nowego pliku
+eea2da9 HEAD@{1}: checkout: moving from texts to eea2da917eaa01ff586eaedfdc6a10e0d577e0ff
+bf54098 (tag: v1.1, origin/texts, texts) HEAD@{2}: checkout: moving from main to texts
+5538d73 (origin/main, origin/HEAD, main) HEAD@{3}: checkout: moving from texts to main
+bf54098 (tag: v1.1, origin/texts, texts) HEAD@{4}: commit: Kant rozprawa
+eea2da9 HEAD@{5}: commit: Lorem ipsum
+5538d73 (origin/main, origin/HEAD, main) HEAD@{6}: checkout: moving from main to texts
+5538d73 (origin/main, origin/HEAD, main) HEAD@{7}: checkout: moving from personal_details to main
+df96543 (tag: v1.0, origin/personal_details, personal_details) HEAD@{8}: commit: E-mail adress
+666f7dc HEAD@{9}: commit: Index number
+e62f105 HEAD@{10}: commit: First name and last name
+5538d73 (origin/main, origin/HEAD, main) HEAD@{11}: checkout: moving from main to personal_details
+5538d73 (origin/main, origin/HEAD, main) HEAD@{12}: clone: from https://github.com/pawelGolebiowski/egzamin.git
